@@ -1,0 +1,10 @@
+
+{
+    "products": [
+        {"id":1, "name": "Basic Tee", "color":"Black", "price":35, "img":"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"},
+        {"id":1, "name": "Basic Tee", "color":"Black", "price":35, "img":"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"},
+        {"id":1, "name": "Basic Tee", "color":"Black", "price":35, "img":"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"},
+        {"id":1, "name": "Basic Tee", "color":"Black", "price":35, "img":"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"}
+
+    ]
+}

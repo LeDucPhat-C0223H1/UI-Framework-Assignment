@@ -1,0 +1,14 @@
+
+{
+  "products": [
+      {"id":1, "name": "Basic Tee", "color":"Black", "price":35, "img":"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"},
+      {"id":1, "name": "Basic Tee", "color":"Red", "price":45, "img":"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-02.jpg"},
+      {"id":1, "name": "Basic Tee", "color":"Blue", "price":50, "img":"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-03.jpg"},
+      {"id":1, "name": "Basic Tee", "color":"Green", "price":55, "img":"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-04.jpg"},
+      {"id":1, "name": "Basic Tee", "color":"Black", "price":35, "img":"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"},
+      {"id":1, "name": "Basic Tee", "color":"Red", "price":45, "img":"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-02.jpg"},
+      {"id":1, "name": "Basic Tee", "color":"Blue", "price":50, "img":"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-03.jpg"},
+      {"id":1, "name": "Basic Tee", "color":"Green", "price":55, "img":"https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-04.jpg"}
+
+  ]
+}
